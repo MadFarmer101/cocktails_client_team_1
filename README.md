@@ -1,4 +1,5 @@
 # The Midcourse Project | Team 1
+[![Build Status](https://semaphoreci.com/api/v1/hmvitous/cocktails_client_team_1/branches/dependabot-npm_and_yarn-jquery-3-5-0/badge.svg)](https://semaphoreci.com/hmvitous/cocktails_client_team_1)
 ### Authors
 [Hunter Vitous](https://github.com/hmvitous)
 [Kayla Woodbury](https://github.com/kaylawoodbury) 
